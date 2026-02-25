@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)] (https://jayrileyx.github.io/portfolio-github-pages/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)] https://jayrileyx.github.io/portfolio-github-pages/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaymee-broussard/)
 
 </div>
